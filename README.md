@@ -5,7 +5,7 @@ uses TMDB API for all the data.**
 
 ## 🎞️ features:
 ### 🍿  latest movies shown.
-### 🍿  Complete with their photo and biographies accessible,their related films too.
+### 🍿  cast complete with their photo and biographies accessible,their related films too.
 ### 🍿  users can search whatever they want if they dont see their favourite show in the carousel.
 <br>
 <br>
