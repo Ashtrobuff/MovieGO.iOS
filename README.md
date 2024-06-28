@@ -22,6 +22,7 @@ uses TMDB API for all the data.**
 <br>
 <br>
 <br>
+
 ### ⚙️ Tech used:-
 
 ![Screenshot 2024-06-28 at 9 54 24 AM](https://github.com/Ashtrobuff/MovieGO.iOS/assets/93227004/dd38a825-cabc-4cc8-b221-da71e2595506)
